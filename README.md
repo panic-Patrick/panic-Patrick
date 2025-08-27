@@ -41,9 +41,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/panic-Patrick/panic-Patrick/output/snake.svg" alt="Snake animation" />
-
-###
