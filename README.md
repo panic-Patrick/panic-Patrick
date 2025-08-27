@@ -1,3 +1,4 @@
+
 <h2 align="center">Hi 👋! My name is Patrick</h2>
 
 ###
@@ -35,9 +36,15 @@
 ###
 
 <div align="center">
+
+  [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=panic133&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+
+</div>
+<div align="center">
   <a href="https://open.spotify.com/user/panic133">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=panic133&count=5&unique=true" alt="Spotify recently played"  />
   </a>
 </div>
+
 
 ###
