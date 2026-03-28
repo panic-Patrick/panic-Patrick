@@ -1,5 +1,9 @@
 
-<h2 align="center">Hi 👋! My name is Patrick</h2>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+My+name+is+Patrick" alt="Typing SVG" />
+  </a>
+</div>
 
 ###
 
@@ -37,6 +41,17 @@
   <a href="https://open.spotify.com/user/panic133">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=panic133&count=5&unique=true" alt="Spotify recently played"  />
   </a>
+</div>
+
+###
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/panic-Patrick/panic-Patrick/main/profile-summary-card-output/github_dark/0-profile-details.svg" alt="GitHub Stats" />
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/panic-Patrick/panic-Patrick/main/profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Repos per Language" width="400" />
+  <img src="https://raw.githubusercontent.com/panic-Patrick/panic-Patrick/main/profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Most Commit Language" width="400" />
 </div>
 
 ###
