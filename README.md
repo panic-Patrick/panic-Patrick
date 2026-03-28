@@ -14,6 +14,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
@@ -27,7 +29,18 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" height="30" alt="supabase logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/coolify/6B16ED" height="30" alt="coolify logo"  />
 </div>
+
+###
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/panic-Patrick/panic-Patrick/main/profile-stats.svg" alt="GitHub Stats" width="600" />
+</div>
+
 
 ###
 
@@ -39,16 +52,6 @@
   <a href="https://open.spotify.com/user/panic133">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=panic133&count=5&unique=true&width=400" width="400" alt="Spotify recently played" />
   </a>
-</div>
-
-###
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/panic-Patrick/panic-Patrick/main/profile-stats.svg" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/panic-Patrick/panic-Patrick/main/languages.svg" alt="Top Languages" />
 </div>
 
 ###

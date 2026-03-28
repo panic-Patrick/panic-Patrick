@@ -19,7 +19,7 @@ jobs:
           base: header
           config_timezone: Europe/Berlin
           filename: profile-stats.svg
-          config_display: large
+          config_padding: 5%
 
       - uses: lowlighter/metrics@latest
         with:
