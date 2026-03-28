@@ -33,13 +33,11 @@
 
 
 <div align="center">
-
-  ![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=panic133&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=true)
-
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=panic133&cover_image=true&theme=default&show_offline=false&background_color=212121&interchange=false&bar_color_cover=true" width="400" alt="Spotify Now Playing" />
 </div>
 <div align="center">
   <a href="https://open.spotify.com/user/panic133">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=panic133&count=5&unique=true" alt="Spotify recently played"  />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=panic133&count=5&unique=true&width=400" width="400" alt="Spotify recently played" />
   </a>
 </div>
 
