@@ -20,10 +20,6 @@ jobs:
           config_timezone: Europe/Berlin
           filename: profile-stats.svg
           config_padding: 5%
-          extras_css: |
-            .field { display: flex; justify-content: center; }
-            h2 { text-align: center; }
-            section { text-align: center; }
 
       - uses: lowlighter/metrics@latest
         with:
