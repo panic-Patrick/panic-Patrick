@@ -37,7 +37,7 @@
 
 ###
 
-<div align="right">
+<div align="center">
   <img src="https://raw.githubusercontent.com/panic-Patrick/panic-Patrick/main/profile-stats.svg" alt="GitHub Stats"/>
 </div>
 
