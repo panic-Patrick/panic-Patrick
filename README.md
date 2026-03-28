@@ -46,12 +46,11 @@
 ###
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/panic-Patrick/panic-Patrick/main/profile-summary-card-output/github_dark/0-profile-details.svg" alt="GitHub Stats" />
+  <img src="https://raw.githubusercontent.com/panic-Patrick/panic-Patrick/main/profile-stats.svg" alt="GitHub Stats" />
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/panic-Patrick/panic-Patrick/main/profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Repos per Language" width="400" />
-  <img src="https://raw.githubusercontent.com/panic-Patrick/panic-Patrick/main/profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Most Commit Language" width="400" />
+  <img src="https://raw.githubusercontent.com/panic-Patrick/panic-Patrick/main/languages.svg" alt="Top Languages" />
 </div>
 
 ###
